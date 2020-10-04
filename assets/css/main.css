@@ -1959,6 +1959,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.35s ease-in-out;
 		-ms-transition: background-color 0.35s ease-in-out;
 		transition: background-color 0.35s ease-in-out;
+		vertical-align: middle;
 	}
 
 		input[type="button"]:hover,
